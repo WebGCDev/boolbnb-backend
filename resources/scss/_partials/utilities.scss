@@ -1,0 +1,43 @@
+.custom-btn {
+    background-color: #CEF27E;
+
+
+    &:hover {
+        background-color: #e1ffa1;
+    }
+}
+
+.custom-button {
+    background-color: #CEF27E;
+    border-radius: 100px;
+    padding: 8px 24px;
+    margin-bottom: 20px;
+
+    &:hover {
+        background-color: #e1ffa1;
+    }
+}
+
+.sponsored-color-icon {
+
+    color: #f2d37f;
+}
+
+.active-color-icon {
+    color: #CEF27E;
+}
+
+.mobile-icon-size {
+    font-size: 20px;
+    height: 100%;
+
+
+    i {
+        margin-top: 7px;
+    }
+
+}
+
+.icon-opacity-color {
+    color: #2c2c2c;
+}
